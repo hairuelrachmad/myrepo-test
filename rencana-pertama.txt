@@ -1,0 +1,5 @@
+- menambahkan menu sidebar
+  * input data
+  * manajemen user
+- menambahkan javascript
+  * kalkulasi perhitungan
